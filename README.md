@@ -23,3 +23,4 @@ The fake data comes from [Json Server](https://github.com/typicode/json-server).
 
  ## Preview
 
+![Rocketshoes preview](https://github.com/jairokoning/bootcamp-gostack-rocketseat-rocketshoes-web/blob/master/src/assets/images/rocketshoes-web.gif)
